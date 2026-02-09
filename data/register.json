@@ -1,0 +1,26 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "Smith",
+        "email": "johnsmith@nal.com",
+		"telephone": "1212121212",
+		"password": "Password@123",
+		"subscribeNewsletter": "Yes"
+	},
+	{
+		"firstName": "Arnold",
+		"lastName": "Swechnegger",
+        "email": "arnoldsw@nal.com",
+		"telephone": "1212100983",
+		"password": "Password@786",
+		"subscribeNewsletter": "No"
+	},
+	{
+		"firstName": "Silvester",
+		"lastName": "Stallon",
+        "email": "silvester@nal.com",
+		"telephone": "9876676683",
+		"password": "Password@009",
+		"subscribeNewsletter": "Yes"
+	}
+]
