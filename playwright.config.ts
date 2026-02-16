@@ -34,6 +34,7 @@ export default defineConfig({
     headless: false,
     screenshot: 'only-on-failure',
     video: 'off',
+    acceptDownloads: true,
     //storageState: 'auth/OWLsession.json', //Reuse login for all tests
   },
 
